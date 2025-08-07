@@ -9,6 +9,8 @@ A curated list of interesting and useful AI tools across different categories. E
   - [💎 Code Quality](#-code-quality)
   - [📝 Text \& Content Writing](#-text--content-writing)
   - [📹 Video Generation](#-video-generation)
+  - [🛠️ Developer Tools](#️-developer-tools)
+  - [📦 Others](#-others)
   - [✅ How to Contribute](#-how-to-contribute)
   - [📄 License](#-license)
 
@@ -194,6 +196,21 @@ A curated list of interesting and useful AI tools across different categories. E
     <td>AI content creation platform for marketing and SEO.</td>
     <td><a href="https://writesonic.com/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>Maestro Labs (née Flowrite)</strong></td>
+    <td>Maestro Labs (née Flowrite) is an AI email assistant that integrates into Gmail/Outlook, generating context-aware, personalized emails and summaries in seconds.</td>
+    <td><a href="https://www.maestrolabs.com/ai-email-writer">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Gamma</strong></td>
+    <td>Gamma (gamma.app) is an AI design platform that rapidly turns prompts into polished presentations, docs, and webpages with sleek templates, layout, and visuals.</td>
+    <td><a href="https://gamma.app/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Ocoya</strong></td>
+    <td>Ocoya is an all-in-one AI social media platform offering post generation, multilingual captions, templates, scheduling, and analytics to streamline marketing.</td>
+    <td><a href="https://www.ocoya.com/">Link</a></td>
+  </tr>
 </table>
 
 
@@ -224,6 +241,59 @@ A curated list of interesting and useful AI tools across different categories. E
     <td><strong>Synthesia</strong></td>
     <td>AI tool to create videos with talking avatars.</td>
     <td><a href="https://www.synthesia.io/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Captions AI</strong></td>
+    <td>Captions AI automates video captioning, subtitling, and ad creation with AI avatars and synced subtitles tailored for platforms like TikTok and Instagram.</td>
+    <td><a href="https://www.captions.ai/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>ElevenLabs</strong></td>
+    <td>ElevenLabs is a high-fidelity AI voice generation and voice‑cloning service (1000+ voices, 70+ languages) for realistic narration, audiobooks, dubbing, and more.</td>
+    <td><a href="https://elevenlabs.io/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Midjourney</strong></td>
+    <td>Midjourney is a leading generative art AI that transforms text prompts into distinctive, high-detail digital artwork and illustrations at scale.</td>
+    <td><a href="https://www.midjourney.com/home">Link</a></td>
+  </tr>
+</table>
+
+
+
+## 🛠️ Developer Tools
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Jam AI</strong></td>
+    <td>Jam AI is an AI-powered bug reporting tool that records crashes/screens, captures logs, and auto-generates detailed reproducible bug reports—reducing effort by around 95 %.</td>
+    <td><a href="https://jam.dev/ai">Link</a></td>
+  </tr>
+</table>
+
+
+## 📦 Others
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Mintlify</strong></td>
+    <td>Mintlify is a developer-centric AI documentation platform that automatically transforms code into user-friendly, interactive documentation with minimal manual work.</td>
+    <td><a href="https://mintlify.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Looka</strong></td>
+    <td>Looka is an AI branding tool that instantly generates logos and complete brand kits (web, business cards, social templates) based on your vision and industry.</td>
+    <td><a href="https://looka.com/">Link</a></td>
   </tr>
 </table>
 
