@@ -10,6 +10,8 @@ A curated list of interesting and useful AI tools across different categories. E
   - [📝 Text \& Content Writing](#-text--content-writing)
   - [📹 Video Generation](#-video-generation)
   - [🛠️ Developer Tools](#️-developer-tools)
+  - [📊 Data \& Code](#-data--code)
+  - [📚 Learning \& Research](#-learning--research)
   - [📦 Others](#-others)
   - [✅ How to Contribute](#-how-to-contribute)
   - [📄 License](#-license)
@@ -274,6 +276,72 @@ A curated list of interesting and useful AI tools across different categories. E
     <td>Jam AI is an AI-powered bug reporting tool that records crashes/screens, captures logs, and auto-generates detailed reproducible bug reports—reducing effort by around 95 %.</td>
     <td><a href="https://jam.dev/ai">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>LangChain</strong></td>
+    <td>Framework for building applications with LLMs.</td>
+    <td><a href="https://www.langchain.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Flowise</strong></td>
+    <td>Drag-and-drop UI to build LLM apps visually.</td>
+    <td><a href="https://flowiseai.com/">Link</a></td>
+  </tr>
+</table>
+
+## 📊 Data & Code
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Kaggle</strong></td>
+    <td>Platform for data science competitions, datasets, and notebooks.</td>
+    <td><a href="https://www.kaggle.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>GitHub Copilot - VS Code Plugin</strong></td>
+    <td>AI coding assistant that helps you write code faster.</td>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Windsurf - VS Code Plugin</strong></td>
+    <td>Free AI code completion and chat for developers.</td>
+    <td><a href="https://marketplace.visualstudio.com/items?itemName=Codeium.codeium">Link</a></td>
+  </tr>
+</table>
+
+
+## 📚 Learning & Research
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Elicit</strong></td>
+    <td>Research assistant to automate parts of the literature review.</td>
+    <td><a href="https://elicit.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Consensus</strong></td>
+    <td>AI search tool that summarizes scientific research papers.</td>
+    <td><a href="https://consensus.app/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Scite</strong></td>
+    <td>AI-powered platform for smart citation and research.</td>
+    <td><a href="https://scite.ai/home">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Google NotebookLM</strong></td>
+    <td>Google NotebookLM is a Gemini-powered “AI research assistant” by Google Labs, enabling users to upload documents, PDFs, videos, and more to generate grounded summaries, Q&A, and audio or video overviews—now enhanced with a Studio panel for mind maps, video summaries, and collaborative features.</td>
+    <td><a href="https://notebooklm.google/">Link</a></td>
+  </tr>
 </table>
 
 
@@ -294,6 +362,16 @@ A curated list of interesting and useful AI tools across different categories. E
     <td><strong>Looka</strong></td>
     <td>Looka is an AI branding tool that instantly generates logos and complete brand kits (web, business cards, social templates) based on your vision and industry.</td>
     <td><a href="https://looka.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Remove.bg</strong></td>
+    <td>Instantly remove background from images.</td>
+    <td><a href="https://www.remove.bg/">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>Cleanup.pictures</strong></td>
+    <td>Remove unwanted objects from images using AI.</td>
+    <td><a href="https://cleanup.pictures/">Link</a></td>
   </tr>
 </table>
 
