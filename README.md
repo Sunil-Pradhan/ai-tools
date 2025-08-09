@@ -12,6 +12,8 @@ A curated list of interesting and useful AI tools across different categories. E
   - [🛠️ Developer Tools](#️-developer-tools)
   - [📊 Data \& Code](#-data--code)
   - [📚 Learning \& Research](#-learning--research)
+  - [🎨 Image Generation](#-image-generation)
+  - [🎵 Music \& Audio](#-music--audio)
   - [📦 Others](#-others)
   - [✅ How to Contribute](#-how-to-contribute)
   - [📄 License](#-license)
@@ -341,6 +343,59 @@ A curated list of interesting and useful AI tools across different categories. E
     <td><strong>Google NotebookLM</strong></td>
     <td>Google NotebookLM is a Gemini-powered “AI research assistant” by Google Labs, enabling users to upload documents, PDFs, videos, and more to generate grounded summaries, Q&A, and audio or video overviews—now enhanced with a Studio panel for mind maps, video summaries, and collaborative features.</td>
     <td><a href="https://notebooklm.google/">Link</a></td>
+  </tr>
+</table>
+
+
+## 🎨 Image Generation
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Midjourney</strong></td>
+    <td>AI that creates stunning art and images from text prompts.</td>
+    <td><a href="https://www.midjourney.com/home">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>DALL·E</strong></td>
+    <td>OpenAI's image generator that can create or edit images from text.</td>
+    <td><a href="https://openai.com/index/dall-e-3/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Leonardo AI</strong></td>
+    <td>AI design tool with templates for game assets, product images, and more.</td>
+    <td><a href="https://leonardo.ai/">Link</a></td>
+  </tr>
+</table>
+
+
+
+## 🎵 Music & Audio
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><strong>Suno AI</strong></td>
+    <td>AI music generator to create songs with lyrics and vocals.</td>
+    <td><a href="https://suno.com/home">Link</a></td>
+  </tr>
+  <tr>
+    <td><strong>ElevenLabs</strong></td>
+    <td>Realistic AI voice generator and text-to-speech tool.</td>
+    <td><a href="https://www.elevenlabs.io/">Link</a></td>
+  </tr>
+	<tr>
+    <td><strong>Beatoven.ai</strong></td>
+    <td>AI music composer for background scores and videos.</td>
+    <td><a href="https://www.beatoven.ai/">Link</a></td>
   </tr>
 </table>
 
