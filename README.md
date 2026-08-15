@@ -335,6 +335,11 @@ A curated list of interesting and useful AI tools across different categories. E
     <td><a href="https://consensus.app/">Link</a></td>
   </tr>
   <tr>
+    <td><strong>IdeaHunter</strong></td>
+    <td>AI research for startup ideas, market evidence, and MVP scope.</td>
+    <td><a href="https://ideahunter.today/">Link</a></td>
+  </tr>
+  <tr>
     <td><strong>Scite</strong></td>
     <td>AI-powered platform for smart citation and research.</td>
     <td><a href="https://scite.ai/home">Link</a></td>
